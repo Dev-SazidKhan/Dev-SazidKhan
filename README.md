@@ -25,7 +25,6 @@ Building the Future with Code
      alt="Profile Picture"/>
 
 # YOUR NAME
-
 *Dev-SazidKhan*
 
 Software Developer
@@ -56,6 +55,8 @@ Software Developer
 │ TOOLS      : Git, GitHub, VS Code  │
 │ STATUS     : Always Learning       │
 └────────────────────────────────────┘
+
+
 
 - 🔭 *I'm currently working on:* BTTC Apps Management
 - 🌱 *I'm currently learning:* Dart & Flutter
