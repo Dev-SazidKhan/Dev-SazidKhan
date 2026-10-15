@@ -4,12 +4,58 @@
 Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anything Else. 😊😊
 
 <div align="center">
-  <img
-    src="Dev-SazidKhan"
-    width="180"
-    alt="Animated Profile Picture"
-  />
+
+# 👨‍💻 Dev-SazidKhan
+### Software Engineer | Developer
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:003B8E,100:00D4FF&height=3&section=header" width="100%"/>
+
+Building the Future with Code
+
 </div>
+
+---
+
+<table>
+<tr>
+<td width="35%" valign="top" align="center">
+
+<img src="https://github.com/Dev-SazidKhan.png"
+     width="180"
+     alt="Profile Picture"/>
+
+# YOUR NAME
+
+*Dev-SazidKhan*
+
+Software Developer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/Dev-SazidKhan)
+
+<br/>
+
+📍 Your Location
+
+🌐 Open to Collaboration
+
+</td>
+
+<td width="65%" valign="top">
+
+<h2>⚡ SYSTEM.INFO</h2>
+
+```text
+┌────────────────────────────────────┐
+│          DEVELOPER PROFILE         │
+├────────────────────────────────────┤
+│ NAME       : YOUR NAME             │
+│ ROLE       : Software Developer    │
+│ LOCATION   : Your Country          │
+│ LANGUAGES  : Dart, JavaScript      │
+│ FRAMEWORKS : Flutter, React        │
+│ TOOLS      : Git, GitHub, VS Code  │
+│ STATUS     : Always Learning       │
+└────────────────────────────────────┘
 
 - 🔭 *I'm currently working on:* BTTC Apps Management
 - 🌱 *I'm currently learning:* Dart & Flutter
