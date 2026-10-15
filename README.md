@@ -33,29 +33,6 @@ Software Developer
 
 <br/>
 
-📍 Your Location
-
-🌐 Open to Collaboration
-
-</td>
-
-<td width="65%" valign="top">
-
-<h2>⚡ SYSTEM.INFO</h2>
-
-```text
-┌────────────────────────────────────┐
-│          DEVELOPER PROFILE         │
-├────────────────────────────────────┤
-│ NAME       : YOUR NAME             │
-│ ROLE       : Software Developer    │
-│ LOCATION   : Your Country          │
-│ LANGUAGES  : Dart, JavaScript      │
-│ FRAMEWORKS : Flutter, React        │
-│ TOOLS      : Git, GitHub, VS Code  │
-│ STATUS     : Always Learning       │
-└────────────────────────────────────┘
-
 
 
 - 🔭 *I'm currently working on:* BTTC Apps Management
