@@ -3,6 +3,15 @@
 
 Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anything Else. 😊😊
 
+<div align="center">
+
+<img src="https://github.com/YOUR_USERNAME.png"
+     width="180"
+     alt="My GitHub Profile Picture"
+     style="border-radius: 50%;" />
+
+</div>
+
 - 🔭 *I'm currently working on:* BTTC Apps Management
 - 🌱 *I'm currently learning:* Dart & Flutter
 - 👯 *I'm looking to collaborate on:* --
