@@ -4,33 +4,9 @@
 Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anything Else. 😊😊
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=S,M,Rashidul Karim;Software+Developer;Building+with+Code" alt="Animated heading"/>
-
-</div>
-
-<table>
-<tr>
-<td width="42%" align="center" valign="middle">
-
-<img src="./portrait-animation.gif" width="100%" alt="Animated portrait"/>
-
-</td>
-<td width="58%" valign="middle">
-
-<h3>⚡ SYSTEM.INFO</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=00D9FF&vCenter=true&width=400&height=150&lines=NAME+%3A+YOUR+NAME;ROLE+%3A+Software Engineer;SKILLS+%3A+Apps Developer;STATUS+%3A+Always+Learning" alt="Animated profile information"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:6C38FF&height=3&section=footer" width="100%" alt="Neon divider"/>
-
-</div>
+  <img src="https://raw.githubusercontent.com/Dev-SazidKhan/Dev-SazidKhan/main/portrait-animation.gif.mp4"
+       width="320"
+       alt="Animated Profile Portrait" />
 
 
 
