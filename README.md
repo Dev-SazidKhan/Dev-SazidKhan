@@ -4,12 +4,11 @@
 Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anything Else. 😊😊
 
 <div align="center">
-
-<img src="https://github.com/Dev-SazidKhan.png"
-     width="180"
-     alt="My GitHub Profile Picture"
-     style="border-radius: 50%;" />
-
+  <img
+    src="Dev-SazidKhan"
+    width="180"
+    alt="Animated Profile Picture"
+  />
 </div>
 
 - 🔭 *I'm currently working on:* BTTC Apps Management
