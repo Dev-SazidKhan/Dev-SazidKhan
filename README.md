@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anythin
 
 <div align="center">
 
-<img src="https://github.com/YOUR_USERNAME.png"
+<img src="https://github.com/Dev-SazidKhan.png"
      width="180"
      alt="My GitHub Profile Picture"
      style="border-radius: 50%;" />
