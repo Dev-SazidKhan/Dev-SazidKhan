@@ -3,9 +3,29 @@
 
 Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anything Else. 😊😊
 
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">Software Engineer / Automation Test Engineer</h3>
+
 <p align="center">
-  <img src="https://github.com/Dev-SazidKhan/Dev-SazidKhan/blob/main/portrait-animation.gif.mp4" width="100%">
+  <!-- ভিডিওর টার্মিনাল ও ভিজ্যুয়াল অ্যানিমেশনের মতো অংশটি ফুটিয়ে তোলার জন্য একটি কাস্টম জিআইএফ বা ব্যানার এখানে যুক্ত করতে পারেন -->
+  <img src="[https://user-images.githubusercontent.com/your-animation.gif](https://github.com/Dev-SazidKhan/Dev-SazidKhan/blob/main/portrait-animation.gif.mp4)" alt="Visual Animation" width="100%">
 </p>
+
+---
+
+### 💻 System Info
+
+```yaml
+SYSTEM.INFO:
+  User:      your-username@github
+  Subject:   Software Engineering
+  Role:      Senior Software Engineer
+  Status:    Open to opportunities & collaborations
+  TechStack: [Python, Java, JavaScript, Flutter, SQL]
+
+
+
+
 
 
 
