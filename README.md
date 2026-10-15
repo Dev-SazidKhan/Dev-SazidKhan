@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anythin
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=YOUR+NAME;Software+Developer;Building+with+Code" alt="Animated heading"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=S,M,Rashidul Karim;Software+Developer;Building+with+Code" alt="Animated heading"/>
 
 </div>
 
