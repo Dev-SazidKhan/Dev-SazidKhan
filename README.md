@@ -3,10 +3,9 @@
 
 Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anything Else. 😊😊
 
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/Dev-SazidKhan/Dev-SazidKhan/main/portrait-animation.gif.mp4](https://github.com/Dev-SazidKhan/Dev-SazidKhan/blob/main/portrait-animation.gif.mp4)"
-       width="320"
-       alt="Animated Profile Portrait" />
+<p align="center">
+  <img src="https://github.com/Dev-SazidKhan/Dev-SazidKhan/blob/main/portrait-animation.gif.mp4" width="100%">
+</p>
 
 
 
