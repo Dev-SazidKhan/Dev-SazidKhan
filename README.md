@@ -18,16 +18,23 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚡ whoami
 
-typescript
-const dev_sazidkhan: Developer = {
-  name:      "S.M.Rashidul Karim",
-  role:      "Product-minded developer",
-  location:  "Cox's Bazar",
-  currently: "building in public",
-  stack:     ["JavaScript"],
-  mantra:    "Make useful things, then make them delightful 🚀",
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+## ⚡WHO I AM 
+
+  Dev_Sazidkhan: Developer = {
+  Name:      "S.M.Rashidul Karim",
+  Role:      "Software Developer",
+  Location:  "Cox's Bazar",
+  Currently: "building in public",
+
+  
+  Stack:     ["Flutter"],
+  Mantra:    "Make useful things, then make them delightful 🚀",
 };
 
 
