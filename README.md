@@ -41,7 +41,7 @@ const dev_sazidkhan: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter%2Cjavascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cgit%2Cgithub&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=flutter%2Cjavascript%2Cdart%2Cphp%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cgit%2Cgithub&perline=8&theme=dark" alt="Tech stack" />
 
 <br/><br/>
 
