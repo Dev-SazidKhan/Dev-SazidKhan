@@ -1,49 +1,152 @@
-# 👌 Hi 👋, I'm S.M.RASHIDUL KARIM
-*A passionate Apps Dev || AI Engineer || BTTC Admin from Bangladesh*
-
-Email Me 👉 ✉️ **smrashidulkarim.com* For Collaboration/Project or Anything Else. 😊😊
-
-
-
-
-
-
-- 🔭 *I'm currently working on:* BTTC Apps Management
-- 🌱 *I'm currently learning:* Dart & Flutter
-- 👯 *I'm looking to collaborate on:* --
-- 🤔 *I'm looking for help with:* --
-- 💬 *Ask me about:* Collaboration, Software Support
-- 📫 *How to reach me:* smrashidulkarim.com
-- 😄 *Pronouns:* Sazid Khan
-- ⚡ *Fun fact:* I Love working for devlopment and devlopment Love Me
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/S.M.Rashidulkarim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sazid_khan_bro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-m-rashidul-karim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smrashidulkarim@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=dev-sazidkhan&theme=neon&role=Product-minded%20developer&location=Cox's%20Bazar&v=readme-reference-2" width="100%" alt="S.M.Rashidul Karim profile banner" />
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Product-minded%20developer;I%20specialize%20in%20building%20cross-platform%20mobile%20ap%E2%80%A6;Building%20with%20code;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="https://github.com/dev-sazidkhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
+
 </div>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dev-SazidKhan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Dev-SazidKhan&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dev-SazidKhan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev-SazidKhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ⚡ whoami
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+typescript
+const dev_sazidkhan: Developer = {
+  name:      "S.M.Rashidul Karim",
+  role:      "Product-minded developer",
+  location:  "Cox's Bazar",
+  currently: "building in public",
+  stack:     ["JavaScript"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dev-SazidKhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Dev-SazidKhan&icon=0&color=0)](https://visitcount.itsvg.in)
+> I specialize in building cross-platform mobile applications using Flutter &amp; Dart, alongside integrating AI-driven functionality and backend services.  
+> 
+> *Collaborations welcome when they are meaningful 🤝*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cgit%2Cgithub&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+*🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation*
+
+<img src="https://img.shields.io/badge/Open_source-7DF9FF?style=for-the-badge&amp;labelColor=0d1117" alt="Open source" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+*dream_apps*
+
+A featured build from this profile.
+
+Open source · 0 stars
+
+<a href="https://github.com/Dev-SazidKhan/dream_apps"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+*dream_app*
+
+A featured build from this profile.
+
+Open source · 0 stars
+
+<a href="https://github.com/Dev-SazidKhan/dream_app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+*sazid_flutter_login.page*
+
+A featured build from this profile.
+
+Open source · 0 stars
+
+<a href="https://github.com/Dev-SazidKhan/sazid_flutter_login.page"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+*Dev-SazidKhan*
+
+A featured build from this profile.
+
+Open source · 0 stars
+
+<a href="https://github.com/Dev-SazidKhan/Dev-SazidKhan"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=dev-sazidkhan&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=dev-sazidkhan&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dev-sazidkhan&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F340597445%3Fu%3D8fc10dc46726a27b061f2085a4c1390aedd359a3%26v%3D4" alt="dev-sazidkhan heatmap visual" />
+</p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🏆 Beyond the Code
+
+* 🧠 *Profile signal:* 22 contributions in the last year
+* 🚀 *Builder energy:* 4 public repositories
+* ⭐ *Community signal:* 0 stars across featured work
+* 🗣️ *Open to:* interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=dev-sazidkhan&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://github.com/dev-sazidkhan"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+*⭐ From [S.M.Rashidul Karim](https://github.com/dev-sazidkhan) · built with code, AI & a little chaos 😈*
+
+</div>
